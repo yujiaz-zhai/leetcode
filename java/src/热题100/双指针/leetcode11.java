@@ -1,4 +1,4 @@
-package 双指针;
+package 热题100.双指针;
 
 public class leetcode11 {
     public static int maxArea(int[] height) {

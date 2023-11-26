@@ -11,12 +11,15 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/双指针/leetcode11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/双指针/leetcode15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/双指针/leetcode283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/双指针/leetcode42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/滑动窗口/leetcode3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/滑动窗口/leetcode438.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/热题100/双指针/leetcode11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/热题100/双指针/leetcode15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/热题100/双指针/leetcode283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/热题100/双指针/leetcode42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/热题100/哈希/leetcode1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/热题100/哈希/leetcode128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/热题100/哈希/leetcode49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/热题100/滑动窗口/leetcode3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/热题100/滑动窗口/leetcode438.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,27 +45,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/yujia/Projects/leetcode/java/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "/Users/yujia/Projects/leetcode/java/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.leetcode438">
-    <configuration name="leetcode11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="双指针.leetcode11" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="热题100" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.leetcode1">
+    <configuration name="leetcode1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="热题100.哈希.leetcode1" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="双指针.*" />
+          <option name="PATTERN" value="热题100.哈希.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,11 +82,11 @@
       </method>
     </configuration>
     <configuration name="leetcode15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="双指针.leetcode15" />
+      <option name="MAIN_CLASS_NAME" value="热题100.双指针.leetcode15" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="双指针.*" />
+          <option name="PATTERN" value="热题100.双指针.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +95,11 @@
       </method>
     </configuration>
     <configuration name="leetcode3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="滑动窗口.leetcode3" />
+      <option name="MAIN_CLASS_NAME" value="热题100.滑动窗口.leetcode3" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="滑动窗口.*" />
+          <option name="PATTERN" value="热题100.滑动窗口.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +108,11 @@
       </method>
     </configuration>
     <configuration name="leetcode42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="双指针.leetcode42" />
+      <option name="MAIN_CLASS_NAME" value="热题100.双指针.leetcode42" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="双指针.*" />
+          <option name="PATTERN" value="热题100.双指针.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +121,11 @@
       </method>
     </configuration>
     <configuration name="leetcode438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="滑动窗口.leetcode438" />
+      <option name="MAIN_CLASS_NAME" value="热题100.滑动窗口.leetcode438" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="滑动窗口.*" />
+          <option name="PATTERN" value="热题100.滑动窗口.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode1" />
         <item itemvalue="Application.leetcode438" />
         <item itemvalue="Application.leetcode3" />
         <item itemvalue="Application.leetcode42" />
         <item itemvalue="Application.leetcode15" />
-        <item itemvalue="Application.leetcode11" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +156,7 @@
       <workItem from="1699863880689" duration="9393000" />
       <workItem from="1700188333702" duration="5563000" />
       <workItem from="1700548554078" duration="607000" />
-      <workItem from="1700976996423" duration="598000" />
+      <workItem from="1700976996423" duration="3539000" />
     </task>
     <servers />
   </component>
@@ -156,7 +167,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/双指针/leetcode283.java</url>
+          <url>file://$PROJECT_DIR$/src/热题100/双指针/leetcode283.java</url>
           <line>6</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>

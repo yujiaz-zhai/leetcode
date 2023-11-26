@@ -1,4 +1,4 @@
-package 双指针;
+package 热题100.双指针;
 
 public class leetcode283 {
     static int[] nums = {0,1,0,3,12};
