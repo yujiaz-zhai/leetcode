@@ -15,6 +15,8 @@
       <change afterPath="$PROJECT_DIR$/src/双指针/leetcode15.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/双指针/leetcode283.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/双指针/leetcode42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/滑动窗口/leetcode3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/滑动窗口/leetcode438.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.leetcode42">
+  <component name="RunManager" selected="Application.leetcode438">
     <configuration name="leetcode11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="双指针.leetcode11" />
       <module name="java" />
@@ -81,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="双指针.leetcode283" />
+    <configuration name="leetcode3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="滑动窗口.leetcode3" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="双指针.*" />
+          <option name="PATTERN" value="滑动窗口.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="leetcode438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="滑动窗口.leetcode438" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="滑动窗口.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode438" />
+        <item itemvalue="Application.leetcode3" />
         <item itemvalue="Application.leetcode42" />
         <item itemvalue="Application.leetcode15" />
         <item itemvalue="Application.leetcode11" />
-        <item itemvalue="Application.leetcode283" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +143,9 @@
       <workItem from="1699599000942" duration="8787000" />
       <workItem from="1699626254121" duration="1506000" />
       <workItem from="1699863880689" duration="9393000" />
+      <workItem from="1700188333702" duration="5563000" />
+      <workItem from="1700548554078" duration="607000" />
+      <workItem from="1700976996423" duration="598000" />
     </task>
     <servers />
   </component>
