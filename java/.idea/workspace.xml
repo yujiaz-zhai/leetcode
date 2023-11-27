@@ -18,6 +18,7 @@
       <change afterPath="$PROJECT_DIR$/src/热题100/哈希/leetcode1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/热题100/哈希/leetcode128.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/热题100/哈希/leetcode49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/热题100/子串/leetcode560.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/热题100/滑动窗口/leetcode3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/热题100/滑动窗口/leetcode438.java" afterDir="false" />
     </list>
@@ -45,48 +46,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "/Users/yujia/Projects/leetcode/java/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/yujia/Projects/leetcode/java/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="热题100" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.leetcode1">
+  <component name="RunManager" selected="Application.leetcode560">
     <configuration name="leetcode1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="热题100.哈希.leetcode1" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="热题100.哈希.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="leetcode15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="热题100.双指针.leetcode15" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="热题100.双指针.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,13 +121,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="leetcode560" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="热题100.子串.leetcode560" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="热题100.子串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode560" />
         <item itemvalue="Application.leetcode1" />
         <item itemvalue="Application.leetcode438" />
         <item itemvalue="Application.leetcode3" />
         <item itemvalue="Application.leetcode42" />
-        <item itemvalue="Application.leetcode15" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +157,8 @@
       <workItem from="1699863880689" duration="9393000" />
       <workItem from="1700188333702" duration="5563000" />
       <workItem from="1700548554078" duration="607000" />
-      <workItem from="1700976996423" duration="3539000" />
+      <workItem from="1700976996423" duration="5108000" />
+      <workItem from="1701054988949" duration="421000" />
     </task>
     <servers />
   </component>
@@ -170,6 +172,16 @@
           <url>file://$PROJECT_DIR$/src/热题100/双指针/leetcode283.java</url>
           <line>6</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/热题100/子串/leetcode560.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/热题100/子串/leetcode560.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
